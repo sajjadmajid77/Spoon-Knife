@@ -1,1 +1,8 @@
 hello dude!
+[Variables]
+MyVar1=This is a string!
+MyVar2=So is this!
+Red=255
+Green=150
+Blue=0
+Alpha=90
